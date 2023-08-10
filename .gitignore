@@ -1,0 +1,38 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Cinema Room Manager/*
+!/Cinema Room Manager/task/
+/Cinema Room Manager/task/*
+!/Cinema Room Manager/task/src
+
+# Project exclude paths
+/Topics/Array/Initializing an array of characters/out/
+/Topics/Array/Initializing an array of characters/out/production/classes/
+/Topics/Calling a method/Call me awesome/out/
+/Topics/Calling a method/Call me awesome/out/production/classes/
+/Topics/Declaring a method/Raise to the power/out/
+/Topics/Declaring a method/Raise to the power/out/production/classes/
+/Topics/Errors in programs/Fix compile-time errors/out/
+/Topics/Errors in programs/Fix compile-time errors/out/production/classes/
+/Topics/Functional decomposition/Kate's math function/out/
+/Topics/Functional decomposition/Kate's math function/out/production/classes/
+/Topics/Iterating over arrays/Boxes/out/
+/Topics/Iterating over arrays/Boxes/out/production/classes/
+/Topics/Multidimensional array/Symmetric matrix/out/
+/Topics/Multidimensional array/Symmetric matrix/out/production/classes/
+/Topics/Switch statement/Test learners/out/
+/Topics/Switch statement/Test learners/out/production/classes/
+/Topics/The main method/Print  Hello, Java/out/
+/Topics/The main method/Print  Hello, Java/out/production/classes/
+/Topics/The while and do-while loops/Squares of natural numbers/out/
+/Topics/The while and do-while loops/Squares of natural numbers/out/production/classes/
